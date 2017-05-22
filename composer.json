@@ -14,7 +14,7 @@
   "repositories": {
     "portable-utf8": {
       "type": "vcs",
-      "url": "https://github.com/menadwork/anti-xss"
+      "url": "https://github.com/menadwork/portable-utf8"
     }
   },
   "require": {
